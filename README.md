@@ -8,15 +8,18 @@
 
 For this project, I created a yellow Jellyfish with an ocean background using Houdini.
 
-Extra: rendering
-
 ## Animation Result
 
-![](JellyFish.gif)
+<p align="center">
+  <img width="600" height="400" src="JellyFish.gif" alt="Jellyfish">
+</p>
 
 ## Rendering Result
 
-![](Rendering.png)
+<p align="center">
+  <img width="650" height="400" src="Rendering.png" alt="Jellyfish">
+</p>
+
 
 ## Bell
 
