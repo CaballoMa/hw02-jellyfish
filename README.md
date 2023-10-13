@@ -10,9 +10,7 @@ For this project, I created a yellow Jellyfish with an ocean background using Ho
 
 ## Animation Result(If you cannot load it, see my .gif file in the project)
 
-<p align="center">
-  <img width="600" height="400" src="JellyFish.gif" alt="Jellyfish">
-</p>
+![](Jellyfish.gif)
 
 ## Rendering Result
 
