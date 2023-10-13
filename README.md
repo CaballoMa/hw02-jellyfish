@@ -8,7 +8,7 @@
 
 For this project, I created a yellow Jellyfish with an ocean background using Houdini.
 
-## Animation Result(If you cannot load it, see my .gif file in the project)
+## Animation Result
 
 ![](Jellyfish.gif)
 
